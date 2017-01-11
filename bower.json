@@ -1,0 +1,20 @@
+{
+  "name": "bbtproject",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "1.6.1",
+    "angular-animate": "1.6.1",
+    "angular-cookies": "1.6.1",
+    "angular-resource": "1.6.1",
+    "angular-route": "1.6.1",
+    "angular-sanitize": "1.6.1",
+    "angular-touch": "~1.4.10",
+    "angular-material": "1.1.1",
+    "font-awesome": "~4.6.3",
+    "angular-ui-router": "~0.2.15"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.10"
+  },
+  "appPath": "src"
+}
